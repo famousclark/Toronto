@@ -8,6 +8,19 @@
 
     <div>
 
+      <nav>
+        <ul>
+          <li>
+            <a href="index.php">Home</a>
+          </li>
+          <li>
+            <a href="diarra-hope-priya.php">About Them</a>
+          </li>
+        </ul>
+      </nav>
+
+      <h1>Odd one out!</h1>
+
       <div>
         <h2>Diarra Bell</h2>
 
