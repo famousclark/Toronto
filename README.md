@@ -1,5 +1,13 @@
 # Toronto
 
+## Team break down
+
+Famous - IA
+Masa - Coder
+Efua - Designer
+
+Team name - Toronto 
+
 ## Structure
 
 For now the pages are divided as such:
