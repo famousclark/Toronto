@@ -7,6 +7,7 @@
 - Efua: Designer
 
 Team name: Toronto 
+
 [Link to site](http://urcsc174.org/assignment07/toronto/index.php)
 
 ## Structure
