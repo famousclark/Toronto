@@ -2,9 +2,9 @@
 
 ## Team break down
 
-Famous - IA
-Masa - Coder
-Efua - Designer
+- Famous: IA
+- Masa: Coder
+- Efua: Designer
 
 Team name - Toronto 
 
