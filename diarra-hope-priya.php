@@ -1,21 +1,16 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Natural Science vs Humanities</title>
-  </head>
+<!doctype html>
+<html lang="en">
+
+<?php
+  $pageTitle = "Odd one out!";
+  include('./inc/app-head.php');
+?>
+
   <body>
 
-    <nav>
-      <ul>
-        <li>
-          <a href="index.php">Home</a>
-        </li>
-        <li>
-          <a href="diarra-hope-priya.php">About Them</a>
-        </li>
-      </ul>
-    </nav>
+    <?php
+      include('./inc/app-nav.php');
+    ?>
 
     <section>
 
@@ -51,7 +46,6 @@
 
       <h2>For the Humanities</h2>
 
-
       <h3>Music</h3>
 
       <!-- Diarra -->
@@ -74,5 +68,8 @@
 
     </section>
 
+    <?php include('./inc/scripts.php'); ?>
+
   </body>
+
 </html>
