@@ -6,7 +6,6 @@
   include('./inc/app-head.php');
 ?>
 
-
   <body>
 
     <?php

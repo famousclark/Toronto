@@ -1,0 +1,7 @@
+/* Created a new class, .is-current for menuhighlighter.js 
+   made by coder */ 
+
+.is-current {
+	color: blue;
+	background-color: yellow;
+}
