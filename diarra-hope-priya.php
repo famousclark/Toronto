@@ -18,7 +18,7 @@
 
       <section>
 
-        <h2>About Them</h2>
+        <h2>About</h2>
 
         <!-- Diarra -->
         <p>I was born in Rochester, and I’ve lived here my whole life. I live in Brighton with my parents and my sister, who is in her senior year of high school. I enjoy living in Rochester however, when I graduate, I’d like to go somewhere new. I’m not exactly sure where I want to go to grad school yet, but I’ll figure it out… eventually. In the meantime I’d really like to visit Europe, Australia, Africa, South America… there’s so many places I haven’t been yet. I just need to find the time (and money) to do it.</p>
