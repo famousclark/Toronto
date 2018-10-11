@@ -12,7 +12,7 @@
       include('./inc/app-nav.php');
     ?>
 
-    <div class="ui container">
+    <div class="ui-container">
 
         <h2>About Us</h2>
 
@@ -21,14 +21,12 @@
           <p>My interests include music, art, design and computer science. Initially, I wasn’t sure how I might be able to combine that combination of interests, but I found that the field of mixed reality technology combined those aspects very neatly. It involved both the creative side and technical side of my interests. The environment is designed using principles of good design, and it also involves programming the software to make it work. It is a relatively new industry so there is a lot that is still being discovered and there is lots of research going on in this area, both in academia and the industry.</p>
         </div>
 
-        <!-- Hope -->
         <div class="item8">
           <h3>Hope</h3>
           <p>I have had a variety of internships and jobs throughout my life. My first job was as a gymnastics coach at Westchester Gymnastics, where I taught to beginners. I spent the summer of 2016 working as the gymnastics coordinator for a day camp run by the Jewish Community Center of Tarrytown, where I worked with over 300 children every day teaching basic gymnastics skills. In the summer of 2017 following my Freshmen year of college, I worked in the User Experience Design department of Mastercard in NYC, and got the chance to work on a variety of exciting projects such as the redesign of MC's website, apps and conduct multiple research tests. This past summer, I was a graphic design intern for Regeneron, a biotechnology company located in Tarrytown NY. In this position, I helped run and manage many of their social media campaigns, create designs for corporate materials, and learned a great deal about marketing within the heathcare industry.
     	    </p>
         </div>
 
-        <!-- Diarra -->
         <div class="item9">
           <h3>Diarra</h3>
           <p>I was born in Rochester, and I’ve lived here my whole life. I live in Brighton with my parents and my sister, who is in her senior year of high school. I enjoy living in Rochester however, when I graduate, I’d like to go somewhere new. I’m not exactly sure where I want to go to grad school yet, but I’ll figure it out… eventually. In the meantime I’d really like to visit Europe, Australia, Africa, South America… there’s so many places I haven’t been yet. I just need to find the time (and money) to do it.</p>
@@ -41,7 +39,6 @@
           <p>This past summer I was part of a field school in Ghana which focused on the surveying, reconstruction and structural analysis of Elmina castle and a few other forts along the coast of Ghana. I was able to learn how to use technology such as photogrammetry, which involves taking pictures of an object from multiple angles and then reconstructing it using software. The course also involved the use of technology such as laser scanning and 3D reconstruction. It was very educational for me and helped me narrow down what kind of career path I want to pursue. I am not entirely certain, but I would like to work in a research environment exploring how digital technologies for mixed reality can be combined with the humanities.</p>
         </div>
 
-        <!-- Hope -->
         <div class="item11">
           <h3>Hope:</h3>
           <p>At University of Rochester, I have taken many classes to help advance my skillsets and knowledge. I have completed courses such as DMS 101, DMS 102, DMS 103, and DMS 104 to ensure that I am prepared for upper level DMS classes. Additionally, I am one course away from completion of my computer science minor, and now have HTML, Python and Java skills. I am currently enrolled in many Business courses, such as Finance, and have previously taken multiple Economics and accounting classes.</p>

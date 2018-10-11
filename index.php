@@ -12,9 +12,10 @@
       include('./inc/app-nav.php');
     ?>
 
-    <div class="ui container">
+    <div class="ui-container">
+      <h1 class="header">Odd one out!</h1>
 
-      <div class="item1"><h1>Odd one out!</h1>
+      <div class="item1">
         <h2>Priya Pooja</h2>
 
         <figure>
@@ -41,7 +42,7 @@
           <h2>Diarra Bell</h2>
 
           <figure>
-            <img src="./media/diarra.jpg" alt="me" style="width:400px; height:600px;">
+            <img src="./media/diarra.jpg" alt="Diarra">
           </figure>
         </div>
 
