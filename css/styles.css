@@ -6,6 +6,10 @@
 	background-color: yellow;
 }
 
+body {
+  background-color: #000080;
+}
+
 .ui-container {
 	margin: 0 auto;
 	width: 90%;
