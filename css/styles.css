@@ -6,14 +6,12 @@
 	background-color: yellow;
 }
 
-body {
-  background-color: #000080;
-}
 
 .ui-container {
 	margin: 0 auto;
 	width: 90%;
 	max-width: 95%;
+  background-color: #000080;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto;
