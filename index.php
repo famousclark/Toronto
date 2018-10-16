@@ -6,7 +6,7 @@
   include('./inc/app-head.php');
 ?>
 
-  <body>
+  <body class="for-color">
 
     <?php
       include('./inc/app-nav.php');
