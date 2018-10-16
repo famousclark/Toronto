@@ -34,6 +34,16 @@
   grid-area: item2;
 		}
 
+.item5 {
+  grid-area: item5;
+  background-color: yellow;
+}
+
+.item6 {
+  grid-area: item6;
+  background-color: yellow;
+ }
+
 .item3 {
   grid-area: item3;
 }
@@ -42,14 +52,12 @@
   grid-area: item4;
 }
 
-.item5 {
-  grid-area: item5;
-}
-
-.item6 {
-  grid-area: item6;
- }
-
 .header {
-	grid-area: header;
+  grid-area: header;
 }
+
+
+.item1, .item2, .item3, .item4, .item5, .item6 {
+  padding: 15px;
+}
+
