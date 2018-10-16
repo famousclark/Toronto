@@ -24,6 +24,12 @@
     "item2 item6 item4"
 }
 
+.container {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 95%;
+}
+
 .header {padding-bottom: 15px; }
 
 .item1 {
