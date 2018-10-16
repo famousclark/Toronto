@@ -16,8 +16,8 @@
     grid-column-gap: 8rem;
     grid-template-areas:
     "header header header" 
-    "item1 item3 item5"
-    "item2 item4 item6"
+    "item1 item5 item3"
+    "item2 item6 item4"
 }
 
 .header {padding-bottom: 15px; }

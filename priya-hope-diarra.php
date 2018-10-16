@@ -12,7 +12,7 @@
       include('./inc/app-nav.php');
     ?>
 
-    <div class="ui-container">
+    <div class="container">
 
         <h2>About Us</h2>
 
