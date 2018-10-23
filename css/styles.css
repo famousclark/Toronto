@@ -8,6 +8,7 @@
 
 .for-color {
     background-color: #000080;
+    color: white;
 }
 
 .ui-container {
@@ -28,6 +29,7 @@
   margin: 0 auto;
   width: 90%;
   max-width: 95%;
+  padding-bottom: 25px;
 }
 
 .header {padding-bottom: 15px; }
@@ -40,16 +42,6 @@
   grid-area: item2;
 		}
 
-.item5 {
-  grid-area: item5;
-  background-color: yellow;
-}
-
-.item6 {
-  grid-area: item6;
-  background-color: yellow;
- }
-
 .item3 {
   grid-area: item3;
 }
@@ -58,15 +50,59 @@
   grid-area: item4;
 }
 
+.item5 {
+  grid-area: item5;
+}
+
+.item6 {
+  grid-area: item6;
+ }
+
+ .item16 {
+  grid-area: item16;
+ }
+
 .header {
   grid-area: header;
 }
 
+.item16 {
+  grid-column-start: 3;
+  background-color: yellow;
+  color: blue; 
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 108px;
+  margin-bottom: 10px;
+  margin-right: 81px;
+  font-size: large;
+  border-radius: 3px;
+}
 
-.item1, .item2, .item3, .item4, .item5, .item6 {
+.item1, .item2, .item3, .item4, .item5, .item6, {
   padding: 15px;
 }
 
-.item9, .item12 {
-  background-color: yellow;
+.item8, .item9, .item11, .item14, .item15 {
+  padding-top: 10px;
 }
+
+.item9, .item12 {
+  margin-top: 10px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+
+.item5, .item6 {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: -25px;
+  margin-bottom: 17px;
+}
+
+.item5, .item6, .item9, .item12 {
+  background-color: yellow;
+  border-radius: 3px;
+  color: blue;
+}
+
