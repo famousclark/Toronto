@@ -106,3 +106,7 @@
   color: blue;
 }
 
+.item1, .item3, .item5 {
+  padding-top: 20px;
+}
+
