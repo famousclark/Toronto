@@ -53,7 +53,7 @@
         </div>
 
 
-        <h2>Fun facts</h3>
+        <h2>Fun facts</h2>
 
         <div class="item13">
           <h3>Priya</h3>
