@@ -9,7 +9,7 @@
   <body class="for-color">
 
     <?php
-      include('./inc/app-nav.php');
+      //include('./inc/app-nav.php');
     ?>
 
     <div class="container">
@@ -45,7 +45,7 @@
         </div>
 
 
-        <h2>For the Humanities</h2>
+        <h2>For the Humanities!</h2>
 
         <div class="item12">
           <h3>Diarra</h3>
@@ -53,23 +53,7 @@
         </div>
 
 
-        <h2>Fun facts</h2>
-
-        <div class="item13">
-          <h3>Priya</h3>
-          <p>Other interesting facts about me. Most people learn how to bike very young, but I did not learn how to ride a bike until freshman year of college. And then soon after learning how to ride a bike, I got my own bike and biked to Ontario Beach Park four times over the past summer. I like most forms of martial arts, and I participate in the karate and Tae kwon do clubs here at the university. Some other things I do for fun include singing, playing the guitar, making pencil sketches and watching movies. </p>
-        </div>
-        
-        <div class="item14">
-          <h3>Hope</h3>
-          <p>Last semester, I was a teaching assistant for Economics 207, an intermediate microeconomics course taught by Professor Rizzo. As part of my responsiblities I graded Problem sets, exams, and help develop the course scope. I really enjoyed this course when I took it and loved the chance to teach other students. This semester I am currently working as a Teaching Assistant for the Computer Science department in an introduction to Python course, CSC 161 taught by Professor Sarkis. I really loved the problem solving aspect of the labs, and so I decided to serve as a lab TA for the course. Weekly, I run two lab sessions for upwards of 50 students and answer questions on their homework assignments. </p>
-        </div>
-        
-        <div class="item15">
-          <h3>Diarra</h3>
-          <p>Another thing that I really enjoy is sleeping. Unfortunately I don’t get to do this as often as I would like sometimes – but I guess it is worth it in order to get an education. In the future, I’m not sure exactly what I’d like to do. Hopefully I’ll have the chance to have several different careers! I’d like to be a teacher, a researcher, a programmer, a rich person who doesn’t have to work…</p>
-        </div>
-    </div>
+        </div
 
 
     <?php include('./inc/app-scripts.php'); ?>
