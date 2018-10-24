@@ -72,9 +72,10 @@
   color: blue; 
   padding-top: 5px;
   padding-bottom: 5px;
-  padding-left: 108px;
+  padding-left: 18px;
   margin-bottom: 10px;
   margin-right: 81px;
+  margin-top: 120px;
   font-size: large;
   border-radius: 3px;
 }
@@ -107,6 +108,9 @@
 }
 
 .item1, .item3, .item5 {
-  padding-top: 20px;
+  margin-top: 20px;
 }
 
+.item2, .item4, .item6 {
+  font-size: 
+}
